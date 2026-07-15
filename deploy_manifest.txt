@@ -1,0 +1,7 @@
+# One repo-relative path (relative to C:\Aggi) per line.
+# Lines starting with # and blank lines are ignored.
+# deploy.py passes these to `git sparse-checkout set`, so only these
+# paths are pulled/updated on the deploy machine.
+S4_WebApp
+S3_User_Query
+S2_OT_Embedding
